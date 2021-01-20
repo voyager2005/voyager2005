@@ -7,7 +7,7 @@
 - 📫 How to reach me: voyager2005.github@gmail.com 
 - ⚡ Fun fact: I like to draw and ❤ playing cricket
 - 💻 My favourite classes: [Education]
-- 🎃 Something more: [unwanted commits](about-commits) 
+- 🎃 Something more: [unwanted commits] 
 
 ### Things that you must check out:
 A [Simple calculator] that I programmed in both java and python languages 
@@ -29,3 +29,4 @@ A [Simple calculator] that I programmed in both java and python languages
 [MMT]: https://en.wikipedia.org/wiki/MakeMyTrip
 [Travelocity]: https://github.com/voyager2005/travel-accommodation
 [2D-snake game]: https://github.com/voyager2005/2D-snake-game.git
+[unwanted commits]: https://github.com/voyager2005/voyager2005/blob/main/about-commits.txt
