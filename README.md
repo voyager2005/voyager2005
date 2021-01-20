@@ -22,3 +22,4 @@ A [Simple calculator] that I programmed in both java and python languages
 [PyCharm]: https://www.jetbrains.com/pycharm/
 [MMT]: https://en.wikipedia.org/wiki/MakeMyTrip
 [Travelocity]: https://github.com/voyager2005/travel-accommodation
+[2D-snake game]: https://github.com/voyager2005/2D-snake-game.git
