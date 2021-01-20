@@ -9,9 +9,8 @@
 - 💻 My favourite classes: [Education]
 
 ### Things that you must check out:
-- A [Simple calculator] that I programmed in both java and python languages 
-<br />
-- A [MMT] like application that I tried to make as my school asignment: [Travelocity] 
+A [Simple calculator] that I programmed in both java and python languages 
+<br />A [MMT] like application that I tried to make as my school asignment: [Travelocity] 
 
 [Simple calculator]: https://github.com/voyager2005/simple-calculator.git
 [Education]: http://www.techsparx.guru/
@@ -21,4 +20,4 @@
 [BlueJ]: https://bluej.org/
 [PyCharm]: https://www.jetbrains.com/pycharm/
 [MMT]: https://en.wikipedia.org/wiki/MakeMyTrip
-[Travelocity]: https://github.com/voyager2005/travel-accommodation.git
+[Travelocity]: https://github.com/voyager2005/travel-accommodation
