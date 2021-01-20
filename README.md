@@ -16,8 +16,8 @@ A [Simple calculator] that I programmed in both java and python languages
 <br />
 
 ### My stats
-![voyager2005's github stats](https://github-readme-stats.vercel.app/api?username=voyager2005&show_icons=true&theme=dark)
-<br />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voyager2005&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![voyager2005's github stats](https://github-readme-stats.vercel.app/api?username=voyager2005&show_icons=true&theme=highcontrast)
+<br />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voyager2005&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [Simple calculator]: https://github.com/voyager2005/simple-calculator.git
 [Education]: http://www.techsparx.guru/
