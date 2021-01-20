@@ -11,6 +11,7 @@
 ### Things that you must check out:
 A [Simple calculator] that I programmed in both java and python languages 
 <br />A [MMT] like application that I tried to make as my school asignment: [Travelocity] 
+<br />A [2D-snake game] that I made using python and turtle
 
 [Simple calculator]: https://github.com/voyager2005/simple-calculator.git
 [Education]: http://www.techsparx.guru/
