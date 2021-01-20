@@ -7,6 +7,7 @@
 - 📫 How to reach me: voyager2005.github@gmail.com 
 - ⚡ Fun fact: I like to draw and ❤ playing cricket
 - 💻 My favourite classes: [Education]
+- 🎃 Something more: [unwanted commits](about-commits) 
 
 ### Things that you must check out:
 A [Simple calculator] that I programmed in both java and python languages 
