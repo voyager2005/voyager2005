@@ -1,0 +1,10 @@
+Hello!!
+
+So wanted to say that I make a lot of UNWANTED commits... I'm still working my way through github...
+
+How I was able to make soo many unwanted commits:
+  • I was unaware that you could preview the changes so it was more like change, commit, check, repeat... 
+  • renamed all the files because I did not know that you should keep an extension to the files.
+  • learning how to add and remove images
+  
+Now I am trying to reduce the number of unwanted commits and making it more structured.
