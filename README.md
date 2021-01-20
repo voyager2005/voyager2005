@@ -12,6 +12,11 @@
 A [Simple calculator] that I programmed in both java and python languages 
 <br />A [MMT] like application that I tried to make as my school asignment: [Travelocity] 
 <br />A [2D-snake game] that I made using python and turtle
+<br />
+
+### My stats
+![voyager2005's github stats](https://github-readme-stats.vercel.app/api?username=voyager2005&show_icons=true&theme=radical)
+<br />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voyager2005&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [Simple calculator]: https://github.com/voyager2005/simple-calculator.git
 [Education]: http://www.techsparx.guru/
