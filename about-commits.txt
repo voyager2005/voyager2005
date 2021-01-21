@@ -8,3 +8,13 @@ How I was able to make soo many unwanted commits:
   • learning how to add and remove images
   
 Now I am trying to reduce the number of unwanted commits and making it more structured.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+There are a few naming terms that I now use in my commits they are:
+• layout: I use this term when I am changing the layout of my README.md file and not adding anyting new to the readme  
+• bug fixes: I use this term when I fix any issues in either in my programs/files or in my readme like the links
+• update: I use this when I delete and add some imformatin in my files/README.md
+• add: I use this term when I add a new file
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
