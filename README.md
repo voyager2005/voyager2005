@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning pyhton, java and open cv
 - 📖 What i want to learn: HTML, javascript 
-- 📫 How to reach me: voyager2005.github@gmail.com 
+- 📫 Fell free to give me your suggestion: voyager2005.github@gmail.com 
 - ⚡ Fun fact: I like to draw and ❤ playing cricket
 - 💻 My favourite classes: [Education]
 - 🎃 Something more: [unwanted commits] 
