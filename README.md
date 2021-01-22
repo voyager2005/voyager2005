@@ -1,6 +1,6 @@
 ### Hey There!! I am Akshat aka [voyager2005] 👋
 
-##### I am a class 10 student and love coding :) Now I mainly know 2 coding languages [java] and [python] !!. I use [BlueJ] and [PyCharm] as my code editors...
+##### I am a class 10 student and love coding :) Now I mainly know 2 coding languages java and python !!. I use [BlueJ] and [PyCharm] as my code editors...
 - 🔭 I’m currently working on: A camera scanner using open cv-python.
 - 🌱 I’m currently learning pyhton, java and open cv
 - 📖 What i want to learn: HTML, javascript 
@@ -10,8 +10,8 @@
 - 🎃 Something more: [unwanted commits] 
 
 ### Things that you must check out:
-A [Simple calculator] that I programmed in both java and python languages 
-<br />A [MMT] like application that I tried to make as my school asignment: [Travelocity] 
+A [MMT] like application that I tried to make as my school asignment: [Travelocity]  
+A Simple calculator that I programmed in both [java] and [python] languages 
 <br />A [2D-snake game] that I made using python and turtle
 <br />
 
@@ -21,8 +21,8 @@ A [Simple calculator] that I programmed in both java and python languages
 [Simple calculator]: https://github.com/voyager2005/simple-calculator.git
 [Education]: http://www.techsparx.guru/
 [voyager2005]: https://github.com/voyager2005
-[java]: https://www.java.com/en/
-[python]: https://www.python.org/
+[java]: https://github.com/voyager2005/simple-calculator-java
+[python]: https://github.com/voyager2005/simple-calculator-python
 [BlueJ]: https://bluej.org/
 [PyCharm]: https://www.jetbrains.com/pycharm/
 [MMT]: https://en.wikipedia.org/wiki/MakeMyTrip
