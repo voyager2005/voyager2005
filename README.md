@@ -14,6 +14,7 @@ A [MMT] like application that I tried to make as my school asignment: [Traveloci
 A Simple calculator that I programmed in both [java] and [python] languages 
 <br />A [2D-snake game] that I made using python and turtle
 <br />
+Please do check you the repositories and ⭐ them if you find it helpful so that more users are able to access this code
 
 ### My stats
 ![voyager2005's github stats](https://github-readme-stats.vercel.app/api?username=voyager2005&show_icons=true&theme=tokyonight&bg_color=0d1117&text_color=ffffff&icon_color=ab6eef)
