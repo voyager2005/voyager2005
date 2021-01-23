@@ -1,6 +1,6 @@
 ### Hey There!! I am Akshat aka [voyager2005] 👋
-
-##### I am a class 10 student and love coding :) Now I mainly know 2 coding languages java and python !!. I use [BlueJ] and [PyCharm] as my code editors...
+#### **I am a class 10 student and love coding :) Now I mainly know 2 coding languages java and python !!. I use [BlueJ] and [PyCharm] as my code editors...**
+#### **Please do star my repositories so that more prople are able to benifit from the code... It will tell me that what I am doing is helping others 😄**
 - 🔭 I’m currently working on: A camera scanner using open cv-python.
 - 🌱 I’m currently learning pyhton, java and open cv
 - 📖 What i want to learn: HTML, javascript 
