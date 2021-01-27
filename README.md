@@ -7,7 +7,7 @@
 - 📫 Fell free to give me your suggestion: voyager2005.github@gmail.com 
 - ⚡ Fun fact: I like to draw and ❤ playing cricket
 - 💻 My favourite classes: [Education]
-- 🎃 Something more: [unwanted commits] 
+- 🎃 Something more: [unwanted commits], [description of all the repositories]
 
 ### Things that you must check out:
 A [MMT] like application that I tried to make as my school asignment: [Travelocity]  
@@ -37,6 +37,7 @@ Please do check you the repositories and ⭐ them if you find it helpful so that
 [Travelocity]: https://github.com/voyager2005/travel-accommodation
 [2D-snake game]: https://github.com/voyager2005/2D-snake-game.git
 [unwanted commits]: https://github.com/voyager2005/voyager2005/blob/main/about-commits.txt
+[description of all the repositories]: https://github.com/voyager2005/voyager2005/blob/main/know-more
 [Airplane seat reservation]: https://github.com/voyager2005/aeroplane-seat-reservation.git
 [array sorting techniques]: https://github.com/voyager2005/java-sorting-techiniques.git
 [array searching techniques]: https://github.com/voyager2005/java-searching-techiniques.git
