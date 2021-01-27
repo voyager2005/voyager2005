@@ -19,6 +19,13 @@ Please do check you the repositories and ⭐ them if you find it helpful so that
 ### My stats
 ![voyager2005's github stats](https://github-readme-stats.vercel.app/api?username=voyager2005&show_icons=true&theme=tokyonight&bg_color=0d1117&text_color=ffffff&icon_color=ab6eef)
 
+## More things that you can find 😂:
+[2D-snake game]
+<br />[simple calculator]
+<br />[Airplane seat reservation]
+<br />[array sorting techniques]
+<br />[array searching techniques]
+
 [Simple calculator]: https://github.com/voyager2005/simple-calculator.git
 [Education]: http://www.techsparx.guru/
 [voyager2005]: https://github.com/voyager2005
@@ -30,3 +37,6 @@ Please do check you the repositories and ⭐ them if you find it helpful so that
 [Travelocity]: https://github.com/voyager2005/travel-accommodation
 [2D-snake game]: https://github.com/voyager2005/2D-snake-game.git
 [unwanted commits]: https://github.com/voyager2005/voyager2005/blob/main/about-commits.txt
+[Airplane seat reservation]: https://github.com/voyager2005/aeroplane-seat-reservation.git
+[array sorting techniques]: https://github.com/voyager2005/java-sorting-techiniques.git
+[array searching techniques]: https://github.com/voyager2005/java-searching-techiniques.git
