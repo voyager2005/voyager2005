@@ -51,7 +51,7 @@ This repository contains some * patterns like triangles, diamonds and X's
 [README.md - Travelocity]: https://github.com/voyager2005/Travelocity/blob/main/README.md
 [2D-snake-game]: https://github.com.voyager2005/2D-snake-game
 [java-searching-techniques]: https://github.com/voyager2005/java-searching-techniques
-[java-sorting-techniques]: https://github.com/voyager005/java-sorting-techniques
+[java-sorting-techniques]: https://github.com/voyager2005/java-sorting-techniques
 [java-patterns]: https://github.com/voyager2005/java-patterns
 [simple-calculator-java]: https://github.com/voyager2005/simple-calculator-java
 [simple-calculator-python]: https://github.com/voyager2005/simple-calculator-python
