@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: A camera scanner using open cv-python.
 - 🌱 I’m currently learning pyhton, java and open cv
 - 📖 What i want to learn: HTML, javascript 
-- 📫 Fell free to give me your suggestion: voyager2005.github@gmail.com 
+- 📫 Contact me on my: [g-mail]
 - ⚡ Fun fact: I like to draw and ❤ playing cricket
 - 💻 My favourite classes: [Education]
 - 🎃 Something more: [unwanted commits], [description of all the repositories]
@@ -33,6 +33,7 @@ Please do check you the repositories and ⭐ them if you find it helpful so that
 [python]: https://github.com/voyager2005/simple-calculator-python
 [BlueJ]: https://bluej.org/
 [PyCharm]: https://www.jetbrains.com/pycharm/
+[g-mail]:voyager2005.github@gmail.com
 [MMT]: https://en.wikipedia.org/wiki/MakeMyTrip
 [Travelocity]: https://github.com/voyager2005/travel-accommodation
 [2D-snake game]: https://github.com/voyager2005/2D-snake-game.git
