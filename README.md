@@ -33,7 +33,7 @@ Please do check you the repositories and ⭐ them if you find it helpful so that
 [python]: https://github.com/voyager2005/simple-calculator-python
 [BlueJ]: https://bluej.org/
 [PyCharm]: https://www.jetbrains.com/pycharm/
-[g-mail]:voyager2005.github@gmail.com
+[g-mail]:mailto:voyager2005.github@gmail.com
 [MMT]: https://en.wikipedia.org/wiki/MakeMyTrip
 [Travelocity]: https://github.com/voyager2005/travel-accommodation
 [2D-snake game]: https://github.com/voyager2005/2D-snake-game.git
