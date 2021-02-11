@@ -7,6 +7,8 @@
 - 📫 Contact me on my: [g-mail]
 - ⚡ Fun fact: I like to draw and ❤ playing cricket
 - 🎃 Something more: [unwanted commits], [description of all the repositories]
+<br />
+I have tried to contribute as frequently as possible but, as many exams are nearing I will not be able to contribute code I believe till mid of June. But I will be open to any suggestions that I can work on after June-July. I will try to solve the issues if any in the reposiotry but i cannot promice on code contribution...
 
 ### Things that you must check out:
 A [MMT] like application that I tried to make as my school asignment: [Travelocity]  
