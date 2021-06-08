@@ -1,8 +1,8 @@
 ### Hey There!! I am [voyager2005] 👋
 ##### I am a class 10 student and love coding :) Now I mainly know 2 coding languages java and python !!. I use [BlueJ] and [PyCharm] as my code editors...
  **Please do ⭐ my repositories so that more prople are able to benifit from the code... It will tell me that what I am doing is helping others 😄**
-- 🔭 I’m currently working on: nothing.
-- 🌱 I’m currently learning pyhton, java and open cv
+- 🔭 I’m currently working on: Trying to code a very basic autonomous rc car for fun. I don't think I will be able to tho
+- 🌱 I’m currently learning: pyhton, java and open cv
 - 📖 What i want to learn: HTML, javascript 
 - 📫 Contact me on my: [g-mail]
 - ⚡ Fun fact: I like to draw and ❤ playing cricket
