@@ -1,5 +1,5 @@
 ### Hey There!! I am [voyager2005] 👋
-##### I am a class 10 student and love coding :) Now I mainly know 2 coding languages java and python !!. I use [BlueJ] and [PyCharm] as my code editors...
+##### I am a class 12 student and love coding :) Now I mainly know 2 coding languages java and python !!. I use [BlueJ] and [PyCharm] as my code editors...
  **Please do ⭐ my repositories so that more prople are able to benifit from the code... It will tell me that what I am doing is helping others 😄**
 - 🔭 I’m currently working on: Trying to code a very basic autonomous rc car for fun. I don't think I will be able to tho
 - 🌱 I’m currently learning: pyhton, java and open cv
@@ -7,8 +7,6 @@
 - 📫 Contact me on my: [g-mail]
 - ⚡ Fun fact: I like to draw and ❤ playing cricket
 - 🎃 Something more: [unwanted commits], [description of all the repositories]
-<br />
-I have tried to contribute as frequently as possible but, as many exams are nearing I will not be able to contribute code I believe till mid of June. But I will be open to any suggestions that I can work on after June-July. I will try to solve the issues if any in the reposiotry but i cannot promice on code contribution...
 
 ### Things that you must check out:
 A [MMT] like application that I tried to make as my school asignment: [Travelocity]  
