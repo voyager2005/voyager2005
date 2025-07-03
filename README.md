@@ -1,30 +1,17 @@
-### Hey There!! I am [voyager2005] 👋
-##### I am a second-year engineering student and love coding :) Now I mainly know 2 coding languages java and python !!. I use [BlueJ] and [PyCharm] as my code editors... and i recently started using vsc
- **Please do ⭐ my repositories so that more prople are able to benifit from the code... It will tell me that what I am doing is helping others 😄**
-- 🔭 I’m currently working on: Trying to code a very basic autonomous rc car for fun. I don't think I will be able to tho
-- 🌱 I’m currently learning: pyhton, java and open cv
-- 📖 What i want to learn: HTML, javascript 
+### Hey There!! I am [Akshat G] 👋
+##### I am a third year computer science engineering student, My interests are in incorporating Artificial Intelligence in Healthcare. I know Python, Java, C, and am confortable working on anaconda using venvs and writing machine learning code using tensorflow and keras.
+<br>
+- 🔭 I’m currently working on: Incorporating Artifical Intelligence in Healthcare establishments to help with redundant tasks!
+- 🌱 I’m currently learning: tensofrlow, computer vision
+- 📖 What I want to learn: NLP
 - 📫 Contact me on my: [g-mail]
-- ⚡ Fun fact: I like to draw and ❤ playing cricket
-- 🎃 Something more: [unwanted commits], [description of all the repositories]
 
 ### Things that you must check out:
-A [MMT] like application that I tried to make as my school asignment: [Travelocity]  
-A Simple calculator that I programmed in both [java] and [python] languages 
-<br />A [2D-snake game] that I made using python and turtle
-<br />
-Please do check you the repositories and ⭐ them if you find it helpful so that more users are able to access this code
 
 ### My stats
 ![voyager2005's github stats](https://github-readme-stats.vercel.app/api?username=voyager2005&show_icons=true&theme=tokyonight&bg_color=0d1117&text_color=ffffff&icon_color=ab6eef)
 
-## More things that you can find 😂:
-[2D-snake game]
-<br />[simple calculator]
-<br />[Airplane seat reservation]
-<br />[array sorting techniques]
-<br />[array searching techniques]
-
+[Akshat G] : https://www.linkedin.com/in/akshat-gururaj/
 [Simple calculator]: https://github.com/voyager2005/simple-calculator.git
 [Education]: http://www.techsparx.guru/
 [voyager2005]: https://github.com/voyager2005
