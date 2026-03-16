@@ -11,3 +11,5 @@ processing workflows.
 - 🌱 I’m currently learning: CI-CD, MLOps.
 - 📖 What I want to learn: Transformers.  
 - 📫 Contact me on my: [g-mail]   
+
+[Akshat G](https://www.linkedin.com/in/akshat-gururaj/)
