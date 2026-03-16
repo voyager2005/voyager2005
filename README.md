@@ -1,4 +1,4 @@
-### Hey There!! I am [Akshat G] 👋
+### Hey There!! I am [Akshat G](https://www.linkedin.com/in/akshat-gururaj/) 👋
 
 ##### Computer Science engineering student with experience building scalable software systems and AI-driven
 applications. Skilled in Python development, GPU-accelerated computing, and designing data-driven
@@ -11,5 +11,3 @@ processing workflows.
 - 🌱 I’m currently learning: CI-CD, MLOps.
 - 📖 What I want to learn: Transformers.  
 - 📫 Contact me on my: [g-mail]   
-
-[Akshat G](https://www.linkedin.com/in/akshat-gururaj/)
